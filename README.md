@@ -3,7 +3,7 @@ A Web Provisioning Server that will let you make Cisco 7800/8800 on enterprise f
 
 ***
 ## Requirements/Prerequisites:
-- Windows ISS with CGI and PHP Installed (if you need help, look at the wiki)
+- Windows ISS with CGI and PHP Installed
 - Asterisk Server with the Chan_SIP Protocol (PJSIP WILL NOT WORK)
 
 ***
