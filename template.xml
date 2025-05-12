@@ -153,7 +153,7 @@
         <autoAnswerOverride>true</autoAnswerOverride>
         <transferOnhookEnabled>true</transferOnhookEnabled>
         <enableVad>false</enableVad>
-        <preferredCodec>g777</preferredCodec>
+        <preferredCodec>g722</preferredCodec>
         <dtmfAvtPayload>101</dtmfAvtPayload>
         <dtmfDbLevel>3</dtmfDbLevel>
         <dtmfOutofBand>avt</dtmfOutofBand>
