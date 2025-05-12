@@ -3,7 +3,7 @@ A Web Provisioning Server that will let you make Cisco 7800/8800 on enterprise f
 
 ***
 ## Requirements/Prerequisites:
-- Windows ISS with CGI and PHP Installed
+- Windows ISS with CGI and PHP Installed (recommended; Other web servers that support PHP and allows you to change the port to 6970 will also work)
 - Asterisk Server with the Chan_SIP Protocol (PJSIP WILL NOT WORK)
 
 ***
@@ -15,3 +15,4 @@ A Web Provisioning Server that will let you make Cisco 7800/8800 on enterprise f
    - MAKE SURE THE PROTOCOL IS HTTP
    - Set the port to 6970
 5. Hit Save and go to http://localhost:6970/provision.php and the default user and password is admin
+ 
