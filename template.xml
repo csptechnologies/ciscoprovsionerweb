@@ -64,7 +64,7 @@
         <spanToPCPort>0</spanToPCPort>
         <loggingDisplay>1</loggingDisplay>
         <displayOnWhenIncomingCall>1</displayOnWhenIncomingCall>
-        <loadServer></loadServer>
+        <loadServer>http://provisioning.csptech.org</loadServer>
         <bluetooth>1</bluetooth>
         <bluetoothProfile>0,1</bluetoothProfile>
         <bthfu>1</bthfu>
