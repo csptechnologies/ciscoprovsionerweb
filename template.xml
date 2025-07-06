@@ -60,7 +60,6 @@
         <displayOnDuration></displayOnDuration>
         <displayIdleTimeout>00:01</displayIdleTimeout>
         <lowerYourVoiceAlert>1</lowerYourVoiceAlert>
-        <webAccess>1</webAccess>
         <spanToPCPort>0</spanToPCPort>
         <loggingDisplay>1</loggingDisplay>
         <displayOnWhenIncomingCall>1</displayOnWhenIncomingCall>
@@ -68,8 +67,11 @@
         <bluetooth>1</bluetooth>
         <bluetoothProfile>0,1</bluetoothProfile>
         <bthfu>1</bthfu>
+	<problemReportUploadURL>http://problem.csptech.org/upload</problemReportUploadURL>
         <wifi>1</wifi>
         <sdio>1</sdio>
+	<webAccess>0</webAccess>
+	<sshAccess>0</sshAccess>
     </vendorConfig>
    <userLocale>
  <name>English_United_States</name>
