@@ -168,7 +168,7 @@
         <disableLocalSpeedDialConfig>false</disableLocalSpeedDialConfig>
         <startMediaPort>16384</startMediaPort>
         <stopMediaPort>32766</stopMediaPort>
-        <voipControlPort>5060</voipControlPort>
+        <voipControlPort>5160</voipControlPort>
         <dscpForAudio>184</dscpForAudio>
         <ringSettingBusyStationPolicy>0</ringSettingBusyStationPolicy>
         <dialTemplate>dialplan.xml</dialTemplate>
