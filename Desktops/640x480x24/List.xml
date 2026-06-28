@@ -1,0 +1,17 @@
+<CiscoIPPhoneImageList>
+<!-- Please Add Images to the end of the list-->
+<ImageItem Image="TFTP:Desktops/640x480x24/Kubrick_dark_2_thumb.png" URL="TFTP:Desktops/640x480x24/Kubrick_dark_2.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/Kubrick_light_2_thumb.png" URL="TFTP:Desktops/640x480x24/Kubrick_light_2.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/green_9836_thumb.png" URL="TFTP:Desktops/640x480x24/green_9836.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/green_stem_6254_thumb.png" URL="TFTP:Desktops/640x480x24/green_stem_6254.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/green_9802_thumb.png" URL="TFTP:Desktops/640x480x24/green_9802.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/yellow_6744_thumb.png" URL="TFTP:Desktops/640x480x24/yellow_6744.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/lights_8454_thumb.png" URL="TFTP:Desktops/640x480x24/lights_8454.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/lights_8787_thumb.png" URL="TFTP:Desktops/640x480x24/lights_8787.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/lights_8660_optn_thumb.png" URL="TFTP:Desktops/640x480x24/lights_8660_optn.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/lights_8839_thumb.png" URL="TFTP:Desktops/640x480x24/lights_8839.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/red_0328_thumb.png" URL="TFTP:Desktops/640x480x24/red_0328.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/yellow_0379_thumb.png" URL="TFTP:Desktops/640x480x24/yellow_0379_UI.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/red_6052_thumb.png" URL="TFTP:Desktops/640x480x24/red_6052.png"/>
+<ImageItem Image="TFTP:Desktops/640x480x24/purple_5887_thumb.png" URL="TFTP:Desktops/640x480x24/purple_5887_UI.png"/>
+</CiscoIPPhoneImageList>
