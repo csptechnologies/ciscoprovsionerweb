@@ -1,0 +1,10 @@
+<CiscoIPPhoneImageList>
+<!-- Please Add Images to the end of the list-->
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_03.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_03.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_06.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_06.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_07.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_07.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_08.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_08.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_09.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_09.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_11.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_11.png"/>
+<ImageItem Image="TFTP:Desktops/240x320x24/syn_wallpaper_thumb_12.png" URL="TFTP:Desktops/240x320x24/syn_wallpaper_12.png"/>
+</CiscoIPPhoneImageList>

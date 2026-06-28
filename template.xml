@@ -20,14 +20,14 @@
             <members>
                 <member priority="0">
                     <callManager>
-                        <name>SERVERIP</name>
+                        <name>SERVERIP</name> --CHANGE ME!
 						<description></description>
                         <ports>
                             <ethernetPhonePort>2000</ethernetPhonePort>
                             <sipPort>5160</sipPort>
                             <securedSipPort>5160</securedSipPort>
                         </ports>
-                        <processNodeName>SERVERIP</processNodeName>
+                        <processNodeName>SERVERIP</processNodeName> --CHANGE ME!
                     </callManager>
                 </member>
             </members>
@@ -63,7 +63,7 @@
         <spanToPCPort>0</spanToPCPort>
         <loggingDisplay>1</loggingDisplay>
         <displayOnWhenIncomingCall>1</displayOnWhenIncomingCall>
-        <loadServer>http://provisioning.csptech.org</loadServer>
+        <loadServer>SERVERIP</loadServer> --CHANGE ME!
         <bluetooth>1</bluetooth>
         <bluetoothProfile>0,1</bluetoothProfile>
         <bthfu>1</bthfu>
